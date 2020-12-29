@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .results {
+    margin: 10px;
+    
+  }
+  
+  .imgResult {
+      margin: 20px;
+      position: absolute;
+      text-align: center;
+      display: block;
+      padding: 30px;
+  }
+
+  
+  .hidden{
+    display: none;
+  }
